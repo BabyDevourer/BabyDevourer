@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tony Phan</h1>
 <h3 align="center">A student currently learning Swift</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=babydevourer&label=Profile%20views&color=0e75b6&style=flat" alt="babydevourer" /> </p>
+
 - 🌱 I’m currently learning **SwiftUI, UIKit**
 
 - 🤝 I’m looking for help with **school**
