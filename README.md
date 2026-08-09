@@ -1,19 +1,29 @@
-<h1 align="center">Tony Phan</h1>
+<!--
+  Graphics live in /assets and are plain SVG files in this repo.
+  No service to call, nothing to generate, nothing that can rate-limit.
+  Each has a light and a dark version; GitHub swaps them automatically.
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+  <img src="assets/banner-light.svg" alt="Tony Phan — secondary school student in Ho Chi Minh City, building iOS apps and Arduino things" width="100%" />
+</picture>
 
 <p align="center">
-  Secondary school student in Ho Chi Minh City, building iOS apps and Arduino things.
+  <a href="https://tony-phan-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-tony--phan-0969DA?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://twitter.com/babydevourer"><img src="https://img.shields.io/badge/X-@babydevourer-181717?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:tony@pnholdings.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=babydevourer&label=Views&color=0969DA&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://tony-phan-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-tony--phan-0e75b6?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://twitter.com/babydevourer"><img src="https://img.shields.io/badge/X-@babydevourer-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:tony@pnholdings.com"><img src="https://img.shields.io/badge/Email-tony@pnholdings.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=babydevourer&label=Views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
+  <img src="assets/divider-light.svg" alt="" width="100%" />
+</picture>
 
-<br />
-
-## Now
+## 🔨 &nbsp;Now
 
 Building **RecipeApp**, a SwiftUI app for saving and scaling recipes. It's my main
 project this term and the reason I'm learning Swift properly rather than copying
@@ -22,13 +32,16 @@ tutorials. Right now I'm working through Core Data and Swift concurrency.
 Open to collaborating on beginner-friendly iOS or Arduino projects — if you're
 building something in that space, message me.
 
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
+  <img src="assets/divider-light.svg" alt="" width="100%" />
+</picture>
 
-## Projects
+## 📦 &nbsp;Projects
 
 <!--
-  These cards are plain HTML. Nothing to install, nothing to generate.
-  To add a project: copy one <td> block below and edit the four lines inside it.
+  To add a project: copy one <td> block and edit the four lines inside it.
   Keep two <td> blocks per <tr> so the grid stays even.
   Only link repos that actually exist, or the button will 404.
 -->
@@ -55,11 +68,11 @@ building something in that space, message me.
 <p align="center"><em>Everything I've built, in one place.</em></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Web-0e75b6?style=flat-square&logo=html5&logoColor=white" alt="Web" />
+  <img src="https://img.shields.io/badge/Web-0969DA?style=flat-square&logo=html5&logoColor=white" alt="Web" />
 </p>
 <p align="center">
   <a href="https://tony-phan-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Visit%20site-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit the portfolio site" />
+    <img src="https://img.shields.io/badge/Visit%20site-0969DA?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit the portfolio site" />
   </a>
 </p>
 </td>
@@ -67,23 +80,27 @@ building something in that space, message me.
 </tr>
 </table>
 
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
+  <img src="assets/divider-light.svg" alt="" width="100%" />
+</picture>
 
-## What I work with
+## 🧰 &nbsp;What I work with
 
-<p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <img src="assets/stack-light.svg" alt="Swift, Xcode, Python, C++, Arduino, Git" width="100%" />
+</picture>
 
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
+  <img src="assets/divider-light.svg" alt="" width="100%" />
+</picture>
 
-## About me
+## 🐈 &nbsp;About me
 
 I got into programming through tinkering with Arduino — hardware that blinks is a very
 good motivator when you're eleven and nothing else you write does anything visible. That
@@ -97,9 +114,13 @@ public and improving than polished and hidden.
 
 Outside of code I'm at British International School HCMC, and I have five cats.
 
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
+  <img src="assets/divider-light.svg" alt="" width="100%" />
+</picture>
 
-## Say hello
+## 👋 &nbsp;Say hello
 
 **tony@pnholdings.com** · [@babydevourer](https://twitter.com/babydevourer) on X
 
